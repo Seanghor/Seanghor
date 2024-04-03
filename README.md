@@ -2,6 +2,8 @@
 <h3 align="center">I'm Seanghor, a software Engineer👨🏻‍💻</h3>
 <img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1uh-LcXue-kmmezahKLs5K&ust=1712249925840000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIiI0J_CpoUDFQAAAAAdAAAAABAd
 "> 
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1uh-LcXue-kmmezahKLs5K&ust=1712249925840000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIiI0J_CpoUDFQAAAAAdAAAAABAd
+"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seanghor&label=Profile%20views&color=0e75b6&style=flat" alt="seanghor" /> </p>
 
