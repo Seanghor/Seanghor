@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://fb.com/seanghor hai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="seanghor hai" height="30" width="40" /></a>
 <a href="https://instagram.com/hshor_14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hshor_14" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/seanghor-hai-376703299/" target="blank"><img align="center" src="https://www.google.com/search?q=linkedin+icon&sca_esv=c0e14f80e7366f47&udm=2&biw=1920&bih=911&sxsrf=ACQVn0_mrWE4OgG8FMo0h9-967mYJirOSw%3A1712164993146&ei=gZANZpDJCM_b4-EPz66LkAc&oq=linkedin+&gs_lp=Egxnd3Mtd2l6LXNlcnAiCWxpbmtlZGluICoCCAEyChAAGIAEGIoFGEMyChAAGIAEGIoFGEMyChAAGIAEGIoFGEMyChAAGIAEGIoFGEMyChAAGIAEGIoFGEMyChAAGIAEGIoFGEMyChAAGIAEGIoFGEMyChAAGIAEGIoFGEMyChAAGIAEGIoFGEMyChAAGIAEGIoFGENIxy1QnARYnARwAXgAkAEAmAFKoAFKqgEBMbgBAcgBAPgBAZgCAqACUcICBBAjGCeYAwCIBgGSBwEyoAerBQ&sclient=gws-wiz-serp#vhid=KSwAtVH93tSnsM&vssid=mosaic" alt="hshor_14" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/seanghor-hai-376703299/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/256/174/174857.png" alt="hshor_14" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
