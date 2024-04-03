@@ -1,5 +1,3 @@
-
-```
 <h1 align="center">Hi 👋, I'm Seanghor</h1>
 <h3 align="center">I'm Seanghor, a software Engineer👨🏻‍💻</h3>
 
@@ -22,52 +20,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=seanghor&show_icons=true&locale=en" alt="seanghor" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=seanghor&" alt="seanghor" /></p>
-```
-Token Github:
-```
-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
-```
-Token Gitlab:
-```
-glpat-LLAyCn42GpPHnXpAZ_v6
-```
-
-```
-Ctl + h : chang name word in file
-ctl + sht + h : change name word in all file of the project
-
-MySql: hor123
-
-```
-MySQL
-```
-password: hor123
-hostname: 127.0.0.1
-username: root
-port: 3306
-```
-
-```
-+ get param  
-const urlParams = new URLSearchParams(window.location.search);
-  const id = urlParams.get('id')
-```
-
-
-Postgres SQL
-```
-+ Postgres SQL:
-    password: hor123
-    port: 5433
-+ MySQL:
-    password: hor123
-```
-
-```
-   
-
-```
-
-```
-
-```
