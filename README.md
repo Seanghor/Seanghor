@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://fb.com/seanghor hai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="seanghor hai" height="30" width="40" /></a>
 <a href="https://instagram.com/hshor_14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hshor_14" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/seanghor-hai-376703299/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="hshor_14" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/seanghor-hai-376703299/" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="hshor_14" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
