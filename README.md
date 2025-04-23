@@ -11,7 +11,7 @@ src="https://camo.githubusercontent.com/24c6287be76c155a12345cb131d1379589070ec2
 <a href="https://fb.com/seanghor hai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="seanghor hai" height="30" width="40" /></a>
 <a href="https://instagram.com/hshor_14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hshor_14" height="30" width="40" /></a>
 <a href="https://t.me/h_seanghor" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png?20220101141644" alt="h_seanghor" height="30" width="30" /></a>
-<a href="https://www.linkedin.com/in/seanghor-hai-376703299" target="blank"><img align="center" src="https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjk4Mi1kNS0xMF8xLnBuZw.png" alt="seanghor-hai-376703299" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/seanghor-hai-376703299" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="seanghor-hai-376703299" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
