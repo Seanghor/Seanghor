@@ -21,7 +21,7 @@ src="https://camo.githubusercontent.com/24c6287be76c155a12345cb131d1379589070ec2
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-1822x2048-wuf3ijab.png" alt="javascript" width="40" height="40"/> </a> 
   
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://e7.pngegg.com/pngimages/306/37/png-clipart-node-js-logo-node-js-javascript-web-application-express-js-computer-software-others-miscellaneous-text.png" alt="nodejs" width="40" height="40"/> </a> 
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/788/651/png-transparent-code-development-logo-nodejs-logos-icon-thumbnail.png" alt="nodejs" width="40" height="40"/> </a> 
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/nestjs-icon-256x255-r03j160r.png" alt="nestjs" width="40" height="40"/> </a> 
   <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png" alt="asp.net" width="40" height="40"/> </a> 
   
