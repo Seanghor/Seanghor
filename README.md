@@ -35,18 +35,8 @@
 - 🔭 Currently working on **Full-stack web apps**  
 - 🌱 Learning **Cloud + DevOps (AWS, Docker, CI/CD)**  
 - 💬 Ask me about **JavaScript, TypeScript, .NET, Vue, React**  
-- ⚡ Fun fact: I debug faster when I have ☕ coffee  
-
----
-
-### 🌐 Connect with Me
-<p align="center">
-  <a href="https://fb.com/seanghor hai" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://instagram.com/hshor_14" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://t.me/h_seanghor" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/seanghor-hai-376703299" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
-
+- ⚡ Fun fact: I debug faster when I have ☕ coffee
+  
 ---
 
 ## 🛠️ Tech Stack
