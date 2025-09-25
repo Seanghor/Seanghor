@@ -32,8 +32,14 @@
 ### Frontend Development
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Vue.js-000000?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/Vue.js-000000?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/Vuex-000000?style=for-the-badge&logo=vuex&logoColor=white" alt="Vuex" />
+  <img src="https://img.shields.io/badge/Pinia-000000?style=for-the-badge&logo=pinia&logoColor=white" alt="Pinia" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Ant%20Design%20Vue-000000?style=for-the-badge&logo=antdesign&logoColor=white" alt="Ant Design Vue" />
   <img src="https://img.shields.io/badge/Element%20Plus-000000?style=for-the-badge&logo=element&logoColor=white" alt="Element Plus" />
