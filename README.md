@@ -43,9 +43,6 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Ant%20Design%20Vue-000000?style=for-the-badge&logo=antdesign&logoColor=white" alt="Ant Design Vue" />
   <img src="https://img.shields.io/badge/Element%20Plus-000000?style=for-the-badge&logo=element&logoColor=white" alt="Element Plus" />
-  <img src="https://img.shields.io/badge/PrimeVue-000000?style=for-the-badge&logo=primefaces&logoColor=white" alt="PrimeVue" />
-  <img src="https://img.shields.io/badge/Chart.js-000000?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Chart.js" />
-  <img src="https://img.shields.io/badge/Vxe--Table-000000?style=for-the-badge&logo=table&logoColor=white" alt="Vxe-Table" />
 </div>
 
 ### Backend Development
