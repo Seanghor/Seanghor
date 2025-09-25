@@ -27,17 +27,48 @@
 ---
 
 <!-- Languages & Tools -->
-### ⚒️ Tech Stack
-<p align="center"> 
-  <!-- Programming -->
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,cs" /><br/>
-  
-  <!-- Frameworks -->
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,dotnet,react,vue,nuxt,tailwind" /><br/>
-  
-  <!-- DevOps & Tools -->
-  <img src="https://skillicons.dev/icons?i=aws,docker,git,postgresql" />
-</p>
+## 🛠️ Tech Stack
+
+### Frontend Development
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Vue.js-000000?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Ant%20Design%20Vue-000000?style=for-the-badge&logo=antdesign&logoColor=white" alt="Ant Design Vue" />
+  <img src="https://img.shields.io/badge/Element%20Plus-000000?style=for-the-badge&logo=element&logoColor=white" alt="Element Plus" />
+  <img src="https://img.shields.io/badge/PrimeVue-000000?style=for-the-badge&logo=primefaces&logoColor=white" alt="PrimeVue" />
+  <img src="https://img.shields.io/badge/Chart.js-000000?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Chart.js" />
+  <img src="https://img.shields.io/badge/Vxe--Table-000000?style=for-the-badge&logo=table&logoColor=white" alt="Vxe-Table" />
+</div>
+
+### Backend Development
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/NestJS-000000?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+</div>
+
+### Databases & Cloud
+
+<div align="center">
+  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
+</div>
+
+### DevOps & Tools
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-000000?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Vben%20Admin-000000?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vben Admin" />
+</div>
+
 
 ---
 
