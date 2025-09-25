@@ -120,5 +120,40 @@
 
 ---
 
-<p align="center">✨ Always building. Always learning. Always growing. ✨</p>
+## 🤝 Connect With Me
+
+<div align="center">
+  <p>Let's connect and build something amazing together!</p>
+  
+  <a href="https://linkedin.com/in/saty-san" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/unmengtong" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://dev.to/mengtongun" target="_blank">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
+  </a>
+  <a href="https://medium.com/@unmengtong" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
+  <a href="https://www.youtube.com/channel/UCKhP-dMJaYizGvHB6gd1L-Q" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://fb.com/seanghor hai" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://instagram.com/hshor_14" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://t.me/h_seanghor" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/seanghor-hai-376703299" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Thanks%20for%20visiting!-00D4AA?style=for-the-badge&logo=github&logoColor=white" alt="Thanks" />
+  
+  <p>⭐ Star this repository if you found it helpful!</p>
+</div>
 
