@@ -107,16 +107,6 @@
 
 ---
 
-## 🌟 Daily Dev Card
-
-<div align="center">
-  <a href="https://app.daily.dev/seanghor">
-    <img src="https://api.daily.dev/devcards/v2/GtClGY6LlDO2UbQVzzqdf.png?r=egi&type=wide" width="652" alt="Seanghor's Dev Card"/>
-  </a>
-</div>
-
----
-
 <!-- Footer -->
 <p align="center">✨ Always building. Always learning. Always growing. ✨</p>
 
