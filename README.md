@@ -101,6 +101,24 @@
 
 ---
 
-##
+## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=seanghor&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4AA&icon_color=00D4AA&text_color=FFFFFF" alt="GitHub Stats" />
+</div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seanghor&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seanghor&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4AA&ring=00D4AA&fire=00D4AA&currStreakNum=FFFFFF&currStreakLabel=00D4AA&sideNums=FFFFFF&sideLabels=00D4AA&dates=FFFFFF" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=seanghor&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D4AA&line=00D4AA&point=00D4AA&area=true&hide_title=true" alt="GitHub Activity Graph" />
+</div>
+
+---
+
+<p align="center">✨ Always building. Always learning. Always growing. ✨</p>
 
