@@ -1,8 +1,45 @@
- <!-- Banner -->
-<h1 align="center">Hey there 👋, I'm Seanghor</h1>
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=007ACC&center=true&vCenter=true&width=500&lines=Software+Engineer+👨🏻‍💻;Full-Stack+Developer+🚀;Open+Source+Enthusiast+🌍;Always+learning+new+things+🔥" />
-</h3>
+<div align="center" style="margin-bottom: 24px;">
+  <h2>🌍 Select Your Language</h2>
+  <p style="font-size: 1.1em; color: #555;">View this README in your preferred language:</p>
+  <div style="display: flex; justify-content: center; gap: 16px; flex-wrap: wrap; margin-top: 12px;">
+    <a href="README.kh.md" title="ខេមរភាសា" style="text-decoration: none; font-size: 2em;">
+      🇰🇭
+    </a>
+    <a href="README.md" title="English" style="text-decoration: none; font-size: 2em;">
+      🇬🇧
+    </a>
+    <a href="README.zh.md" title="中文" style="text-decoration: none; font-size: 2em;">
+      🇨🇳
+    </a>
+    <a href="README.ja.md" title="日本語" style="text-decoration: none; font-size: 2em;">
+      🇯🇵
+    </a>
+    <a href="README.fr.md" title="Français" style="text-decoration: none; font-size: 2em;">
+      🇫🇷
+    </a>
+  </div>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&height=50&lines=Hi+%F0%9F%91%8B%2C+I'm+Seanghor;Software+Engineer+from+Cambodia;Seeking+Remote+Opportunities" alt="Typing SVG" />
+</div>
+
+<div align="center" style="margin-top: 12px;">
+  <img src="https://img.shields.io/badge/Location-Cambodia-00D4AA?style=for-the-badge&logo=location&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-00D4AA?style=for-the-badge&logo=linkedin&logoColor=white" alt="Status" />
+</div>
+
+<br>
+
+<!-- Profile Views -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=seanghor&label=Profile%20views&color=00D4AA&style=for-the-badge" alt="Profile Views" />
+</div>
+
+<br>
+
 
 ---
 
