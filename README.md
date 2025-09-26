@@ -31,7 +31,12 @@
 
 ---
 
-
+### 👨🏻‍💻 About Me
+- 🔭 Currently working on **Full-stack web apps**  
+- 🌱 Learning **Cloud + DevOps (AWS, Docker, CI/CD)**  
+- 💬 Ask me about **JavaScript, TypeScript, .NET, Vue, React**  
+- ⚡ Fun fact: I debug faster when I have ☕ coffee
+  
 ---
 
 ## 🛠️ Tech Stack
@@ -42,6 +47,7 @@
   <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=white" />
 </div>
 
 ### Frontend Development
