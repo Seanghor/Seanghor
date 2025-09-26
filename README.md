@@ -31,12 +31,7 @@
 
 ---
 
-### 👨🏻‍💻 About Me
 
-
-
-
-  
 ---
 
 ## 🛠️ Tech Stack
@@ -47,7 +42,6 @@
   <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=white" />
 </div>
 
 ### Frontend Development
