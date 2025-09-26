@@ -32,7 +32,7 @@
 ---
 
 ### 👨🏻‍💻 About Me
-- 🔭 Currently working on **Full-stack web apps**  
+
 
 
 
