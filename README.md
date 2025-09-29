@@ -116,7 +116,7 @@
 <div align="center">
   <p>Let's connect and build something amazing together!</p>
 
-  <a href="https://seanghor-portfolio.vercel.app" target="_blank"><img src="https://www.pngfind.com/pngs/m/650-6509777_portfolio-png-black-portfolio-icon-png-transparent-png.png" /></a>
+  <a href="https://seanghor-portfolio.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-543DE0?logo=about.me&logoColor=white&style=for-the-badge" /></a>
   <a href="https://fb.com/seanghor hai" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
   <a href="https://instagram.com/hshor_14" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://t.me/h_seanghor" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
