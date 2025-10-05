@@ -28,6 +28,16 @@
 
 <br>
 
+---
+
+### 👨🏻‍💻 About Me
+- 🔭 Currently working on **Full-stack web apps**  
+- 🌱 Learning **Cloud + DevOps (AWS, Docker, CI/CD)**  
+- 💬 Ask me about **JavaScript, TypeScript, .NET, Vue, React**  
+- ⚡ Fun fact: I debug faster when I have ☕ coffee
+  
+---
+
 ## 🛠️ Tech Stack
 
 ### Programming Languages
