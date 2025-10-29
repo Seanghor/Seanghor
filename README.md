@@ -5,7 +5,7 @@
     <a href="README.kh.md" title="ខេមរភាសា" style="text-decoration: none; font-size: 2em;">🇰🇭</a>
     <a href="README.md" title="English" style="text-decoration: none; font-size: 2em;">🇬🇧</a>
     <a href="README.zh.md" title="中文" style="text-decoration: none; font-size: 2em;">🇨🇳</a>
-  
+    <a href="README.ja.md" title="日本語" style="text-decoration: none; font-size: 2em;">🇯🇵</a>
   </div>
 </div>
 
