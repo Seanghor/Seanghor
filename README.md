@@ -1,5 +1,5 @@
 <div align="center" style="margin-bottom: 24px; border: 2px solid #00D4AA; border-radius: 12px; padding: 16px; background: linear-gradient(145deg, #0D1117, #161B22); box-shadow: 0 8px 20px rgba(0,212,170,0.3);">
-  <h2 style="color:#00D4AA;">🌍 Select Your Language</h2>
+  <h2 style="color:#00D4AA;">🌍 Choose Your Language</h2>
   <p style="font-size: 1.1em; color: #AAAAAA;">View this README in your preferred language:</p>
   <div style="display: flex; justify-content: center; gap: 16px; flex-wrap: wrap; margin-top: 12px;">
     <a href="README.kh.md" title="ខេមរភាសា" style="text-decoration: none; font-size: 2em;">🇰🇭</a>
