@@ -33,7 +33,7 @@
 ### 👨🏻‍💻 About Me
 - 🔭 Currently building **Full-Stack Web Applications**  
 - 🌱 Exploring **Cloud & DevOps** – AWS, Docker, CI/CD  
-- 💬 Ask me about **JavaScript, TypeScript, .NET, Vue, React, NestJS**  
+
 - ⚡ Fun fact: Debugging feels faster with ☕ coffee  
 
 ---
